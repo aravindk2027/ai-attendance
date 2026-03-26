@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD:frontend/src/vercel.json
     "rewrites": [
         {
             "source": "/(.*)",
@@ -6,3 +7,12 @@
         }
     ]
 }
+=======
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
+>>>>>>> 93867c905b9770b6cac97ba03fc4ef0518a5e736:frontend/frontend/src/vercel.json
